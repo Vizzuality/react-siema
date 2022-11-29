@@ -1,5 +1,7 @@
 # ReactSiema - Lightweight and simple carousel for React
 
+## IMPORTANT: Forked as it is used on Trase. Please remove when is not used anymore
+
 ReactSiema is a lightweight carousel plugin for React. It's a wrapper based on decent library [Siema](https://github.com/pawelgrzybek/siema).
 
 ## Demo
